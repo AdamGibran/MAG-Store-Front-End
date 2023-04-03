@@ -1,0 +1,74 @@
+body {
+    font-family: Montserrat;
+}
+
+/* Nav */
+.nav-item {
+    margin-right: 26px;
+}
+
+
+
+
+/* navbar */
+#cart span {
+    color: #e7ab3c
+}
+
+#cart {
+    color: black;
+
+}
+
+.nav-item.active a {
+    color: #ffc107 !important;
+}
+
+
+}
+
+/* carousel */
+.carousel-inner {
+    display: block;
+    max-width: 100%;
+    height: 460px;
+}
+
+/* Features */
+
+.h2 {
+    display: block;
+    box-sizing: border-box;
+
+}
+
+.product-item .pi-text {
+    text-align: center;
+    padding-top: 26px;
+}
+
+.owl-carousel .owl-item img {
+    display: block;
+    width: auto;
+}
+
+/* figure */
+#figtop {
+    font-size: 10px;
+    color: #b2b2b2;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-bottom: 10px
+}
+
+#figcen {
+    color: #252525;
+    font-size: 18px;
+}
+
+#figbot {
+    color: #e7ab3c;
+    font-size: 20px;
+    font-weight: 700;
+}
